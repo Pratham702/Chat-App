@@ -63,7 +63,7 @@ class _LoginScreenState extends State<LoginScreen> {
               SizedBox(
                 height: 24.0,
               ),
-              button(text: 'Register',
+              button(text: 'Login',
                 colour: Colors.lightBlueAccent,
                 navigator: () async{
                 setState((){
